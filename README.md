@@ -9,4 +9,4 @@ if you do not have it copy this and run in your terminal :
 <center>  
 . 
 ![simple calculator](./images/calc.png)
-<center/>
+</center>
