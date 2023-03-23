@@ -5,8 +5,6 @@
 if you do not have it copy this and run in your terminal :  
 `pip install tk`  
 
-
-<center>  
-. 
-![simple calculator](./images/calc.png)
-</center>
+<p align="center">
+  <img width="349" height="470" src="./images/calc.png">
+</p>
