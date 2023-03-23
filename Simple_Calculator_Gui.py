@@ -43,12 +43,6 @@ def Calculate():
 
 # creating items
 
-
-
-
-
-
-
 button9 = Button(root, text="9", width=9, height=3,padx=9, pady=7,  bg="#222222", fg="#FFFFFF", command=lambda: Click(9))
 button8 = Button(root, text="8", width=9,height=3, padx=9, pady=7, bg="#222222", fg="#FFFFFF", command=lambda: Click(8))
 button7 = Button(root, text="7", width=9,height=3, padx=9, pady=7, bg="#222222", fg="#FFFFFF", command=lambda: Click(7))
